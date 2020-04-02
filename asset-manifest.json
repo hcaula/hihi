@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/hihi/static/css/main.0ee75a2a.chunk.css",
+    "main.js": "/hihi/static/js/main.e0d84fc3.chunk.js",
+    "main.js.map": "/hihi/static/js/main.e0d84fc3.chunk.js.map",
+    "runtime-main.js": "/hihi/static/js/runtime-main.54ebcd9a.js",
+    "runtime-main.js.map": "/hihi/static/js/runtime-main.54ebcd9a.js.map",
+    "static/js/2.3525f8b8.chunk.js": "/hihi/static/js/2.3525f8b8.chunk.js",
+    "static/js/2.3525f8b8.chunk.js.map": "/hihi/static/js/2.3525f8b8.chunk.js.map",
+    "index.html": "/hihi/index.html",
+    "precache-manifest.3d3211b38417fe56d0180de3ecea4055.js": "/hihi/precache-manifest.3d3211b38417fe56d0180de3ecea4055.js",
+    "service-worker.js": "/hihi/service-worker.js",
+    "static/css/main.0ee75a2a.chunk.css.map": "/hihi/static/css/main.0ee75a2a.chunk.css.map",
+    "static/js/2.3525f8b8.chunk.js.LICENSE.txt": "/hihi/static/js/2.3525f8b8.chunk.js.LICENSE.txt",
+    "static/media/2018-11-17.jpg": "/hihi/static/media/2018-11-17.99b983d9.jpg",
+    "static/media/2018-11-20.jpg": "/hihi/static/media/2018-11-20.a5bcd62c.jpg",
+    "static/media/2018-11-25.jpg": "/hihi/static/media/2018-11-25.f2315be0.jpg",
+    "static/media/2018-12-17.jpg": "/hihi/static/media/2018-12-17.35b4c8a1.jpg",
+    "static/media/2018-12-21.jpg": "/hihi/static/media/2018-12-21.32e07210.jpg",
+    "static/media/2019-01-01.jpg": "/hihi/static/media/2019-01-01.0dfa6949.jpg",
+    "static/media/2019-03-16.jpg": "/hihi/static/media/2019-03-16.d3e86f66.jpg",
+    "static/media/2019-04-27.jpg": "/hihi/static/media/2019-04-27.c2d487f4.jpg",
+    "static/media/2019-05-19.jpg": "/hihi/static/media/2019-05-19.2fc78af0.jpg",
+    "static/media/2019-08-09.jpg": "/hihi/static/media/2019-08-09.af463da1.jpg",
+    "static/media/2019-11-16.jpg": "/hihi/static/media/2019-11-16.d882f00c.jpg",
+    "static/media/2019-12-22.jpg": "/hihi/static/media/2019-12-22.83f00e1a.jpg",
+    "static/media/2020-01-18.jpg": "/hihi/static/media/2020-01-18.0355cc95.jpg",
+    "static/media/index.css": "/hihi/static/media/Roboto-Light.d5c46b13.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54ebcd9a.js",
+    "static/js/2.3525f8b8.chunk.js",
+    "static/css/main.0ee75a2a.chunk.css",
+    "static/js/main.e0d84fc3.chunk.js"
+  ]
+}
